@@ -20,7 +20,7 @@
 
 ```bash
 Languages:  Python | JavaScript | Bash | C
-Web:        FastAPI | React | Svelte | Node.js
+Web:        FastAPI | Node.js
 AI/ML:      Scikit-Learn | TensorFlow | OpenCV | Pandas
 Cloud:      GCP | Docker | Kubernetes | GitHub Actions
 Tools:      VS Code | Linux | MongoDB | Firebase
