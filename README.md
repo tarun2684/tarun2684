@@ -12,7 +12,7 @@
 - 🚀 Currently preparing for **GSoC** and working on exciting open source contributions.
 - 🛠️ Exploring **FastAPI**, **Kubernetes**, **TensorFlow**, **JupyterLab**, and **MLOps**.
 - ✍️ I occasionally write tech blogs and love documenting what I learn.
-- 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-profile)
+- 📬 Connect with me: [LinkedIn](linkedin.com/in/tarun-e-asl2684)
 
 ---
 
@@ -22,5 +22,5 @@
 Languages:  Python | JavaScript | Bash | C
 Web:        FastAPI | Node.js
 AI/ML:      Scikit-Learn | TensorFlow | OpenCV | Pandas
-Cloud:      GCP | Docker | Kubernetes | GitHub Actions
+Cloud:      AWS | GCP | Docker | Kubernetes | GitHub Actions
 Tools:      VS Code | Linux | MongoDB | Firebase
